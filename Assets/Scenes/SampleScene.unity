@@ -5533,7 +5533,7 @@ MonoBehaviour:
   requiredItem: Cherry
   requiredAmount: 5
   questItem1: Cherry
-  questAmount1: 25
+  questAmount1: 50
   questItem2: Herb
   questAmount2: 5
   dialogueLines:
@@ -5554,7 +5554,7 @@ MonoBehaviour:
   - speaker: Master Bear
     text: 'We''re short of food supplies. '
   - speaker: Master Bear
-    text: Bring 25  Cherries and 5 herbs. We shall talk.
+    text: Bring 50 Cherries and 5 herbs. We shall talk.
   notEnoughText: You need 5 cherries to talk !
   questAssignedText: Bring me 25 cherries and 5 herbs.
   questCompleteText: Great work! You brought everything I asked for.
